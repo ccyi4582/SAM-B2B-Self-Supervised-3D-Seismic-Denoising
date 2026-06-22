@@ -21,6 +21,7 @@ To highlight the main academic contributions, this repository provides a **clean
 ├── masking.py        # 3D complexity analyzer and dynamic multiscale blind-spot mask generation
 ├── train_minimal.py  # Minimal training pipeline demonstrating the core SAM-B2B mechanism
 └── requirements.txt  # Project dependencies
+```
 
 ## ⚙️ Installation & Dependencies
 
