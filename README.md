@@ -27,8 +27,9 @@ To highlight the main academic contributions, this repository provides a **clean
 
 Ensure you have Python 3.8+ and PyTorch 1.10+ installed.
 
-# Core dependencies
+```# Core dependencies
 pip install torch>=1.10.0 numpy>=1.20.0
+```
 
 ## 🚀 Usage
 
@@ -36,7 +37,7 @@ You can directly run the minimal training pipeline. This script demonstrates how
 the 3D complexity analysis, adaptive multiscale masking, and residual fusion
 work together end-to-end using dummy seismic data tensors.
 
-# Execute the minimal training pipeline
+```# Execute the minimal training pipeline
 python train_minimal.py
-
+```
 
